@@ -77,7 +77,7 @@ Priority: High
 ## Project Structure
 
 AI-Customer-Support-Ticket-Classifier/
-
+│
 ├── app.py
 ├── queue_model.pkl
 ├── queue_tfidf.pkl
