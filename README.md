@@ -76,6 +76,7 @@ Priority: High
 
 ## Project Structure
 
+```text
 AI-Customer-Support-Ticket-Classifier/
 │
 ├── app.py
@@ -85,6 +86,7 @@ AI-Customer-Support-Ticket-Classifier/
 ├── priority_tfidf.pkl
 ├── requirements.txt
 └── README.md
+```
 
 ## Future Improvements
 
